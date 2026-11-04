@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "LYGM Events — Invitations digitales premium",
+    "description": "Chaque événement mérite une expérience digitale. Invitations digitales personnalisées pour mariages, baby showers et anniversaires."
+  },
+  "brand": {
+    "by": "Par LYGM Group",
+    "tagline": "Chaque événement mérite une expérience digitale."
+  },
+  "nav": {
+    "experiences": "Expériences",
+    "portfolio": "Démos",
+    "pricing": "Tarifs",
+    "how": "Comment ça marche",
+    "contact": "Contact",
+    "cta": "Commencer",
+    "menu": "Ouvrir le menu",
+    "close": "Fermer le menu",
+    "language": "Changer de langue",
+    "skip": "Aller au contenu"
+  },
+  "hero": {
+    "eyebrow": "Expériences digitales premium",
+    "title": "Chaque événement mérite une expérience digitale.",
+    "text": "Découvrez des invitations digitales magnifiquement conçues pour rendre vos moments spéciaux inoubliables.",
+    "primary": "Découvrir nos expériences",
+    "secondary": "Créons la vôtre",
+    "support": "Belles invitations. Expériences marquantes. Souvenirs inoubliables.",
+    "scroll": "Défiler"
+  },
+  "whatsapp": {
+    "float": "Écrire sur WhatsApp"
+  },
+  "experiences": {
+    "eyebrow": "Nos expériences",
+    "title": "Trois façons de célébrer, une même élégance.",
+    "intro": "Choisissez l'univers qui vous ressemble. Chaque site est personnalisé pour vous, avec vos photos, vos couleurs et vos détails.",
+    "seeDemos": "Voir les démos",
+    "categories": {
+      "wedding": {
+        "name": "Mariages",
+        "description": "Célébrez votre histoire d'amour avec une invitation de mariage digitale élégante, conçue autour de votre grand jour.",
+        "features": [
+          "Site de mariage personnalisé",
+          "Gestion des RSVP",
+          "Compte à rebours",
+          "Notre histoire",
+          "Programme de l'événement",
+          "Galerie photos",
+          "Lieu et itinéraire",
+          "Messages des invités",
+          "Tableau de bord d'administration"
+        ]
+      },
+      "babyshower": {
+        "name": "Baby Showers",
+        "description": "Accueillez bébé avec une expérience digitale remplie d'amour, de vœux et de petites attentions.",
+        "features": [
+          "Invitation personnalisée",
+          "RSVP",
+          "Vœux pour bébé",
+          "Suggestions de prénoms",
+          "Conseils aux parents",
+          "Liste de cadeaux",
+          "Galerie photos",
+          "Tableau de bord admin"
+        ]
+      },
+      "birthday": {
+        "name": "Anniversaires",
+        "description": "Fêtez une année de plus avec une invitation digitale stylée que vos invités adoreront.",
+        "features": [
+          "Invitation d'anniversaire personnalisée",
+          "RSVP",
+          "Gestion des invités",
+          "Vœux d'anniversaire",
+          "Informations cadeaux (optionnel)",
+          "Détails de l'événement",
+          "Galerie photos",
+          "Tableau de bord admin"
+        ]
+      }
+    }
+  },
+  "portfolio": {
+    "eyebrow": "Démos en direct",
+    "title": "Explorez nos créations réelles.",
+    "intro": "Cinq démonstrations, cinq sites bien réels. Ouvrez-les, parcourez-les, imaginez le vôtre.",
+    "filters": {
+      "all": "Toutes",
+      "wedding": "Mariages",
+      "babyshower": "Baby Showers",
+      "birthday": "Anniversaires"
+    },
+    "categoryLabel": {
+      "wedding": "Mariage",
+      "babyshower": "Baby Shower",
+      "birthday": "Anniversaire"
+    },
+    "viewDemo": "Voir la démo en direct",
+    "comingSoon": "Bientôt disponible",
+    "comingSoonNote": "Démo en cours de déploiement",
+    "opensNew": "(s'ouvre dans un nouvel onglet)",
+    "screenshotAlt": "Capture d'écran de"
+  },
+  "why": {
+    "eyebrow": "Pourquoi LYGM Events",
+    "title": "Bien plus qu'une carte d'invitation.",
+    "items": [
+      {
+        "title": "Design personnalisé",
+        "text": "Chaque invitation est personnalisée avec vos photographies, vos couleurs, les détails de votre événement et vos préférences."
+      },
+      {
+        "title": "Expérience interactive",
+        "text": "Vos invités explorent l'invitation, confirment leur présence, consultent les détails et interagissent avec les fonctionnalités disponibles."
+      },
+      {
+        "title": "Gestion des invités",
+        "text": "Gérez les réservations et les réponses de vos invités depuis un tableau de bord d'administration privé."
+      },
+      {
+        "title": "Adapté au mobile",
+        "text": "Chaque site est conçu pour être magnifique sur smartphone."
+      },
+      {
+        "title": "Une expérience mémorable",
+        "text": "Créez quelque chose de plus spécial qu'une carte d'invitation traditionnelle."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Comment ça marche",
+    "title": "Quatre étapes simples.",
+    "steps": [
+      {
+        "title": "Choisissez votre expérience",
+        "text": "Explorez nos démonstrations de mariage, baby shower et anniversaire."
+      },
+      {
+        "title": "Partagez vos détails",
+        "text": "Envoyez-nous les informations de votre événement, vos photos, vos couleurs préférées et tout autre détail."
+      },
+      {
+        "title": "Nous créons votre site",
+        "text": "Notre équipe personnalise l'invitation digitale pour votre célébration."
+      },
+      {
+        "title": "Partagez avec vos invités",
+        "text": "Recevez le lien de votre site et partagez-le par WhatsApp et sur les réseaux sociaux."
+      }
+    ],
+    "step": "Étape"
+  },
+  "services": {
+    "eyebrow": "Nos services",
+    "title": "Les fonctionnalités que nous créons pour vous.",
+    "note": "Les fonctionnalités varient selon le type d'événement et le package choisi. Toutes ne sont pas incluses dans chaque package.",
+    "items": [
+      {
+        "title": "Invitations digitales",
+        "text": "Un site élégant à votre image."
+      },
+      {
+        "title": "Gestion des RSVP",
+        "text": "Suivez les confirmations en temps réel."
+      },
+      {
+        "title": "Listes d'invités",
+        "text": "Organisez et suivez vos invités."
+      },
+      {
+        "title": "Compte à rebours",
+        "text": "Faites monter l'excitation jusqu'au grand jour."
+      },
+      {
+        "title": "Galeries photos",
+        "text": "Partagez vos plus beaux moments."
+      },
+      {
+        "title": "Programmes d'événement",
+        "text": "Le déroulé de votre journée, clairement présenté."
+      },
+      {
+        "title": "Vœux des invités",
+        "text": "Un espace pour les messages et les souhaits."
+      },
+      {
+        "title": "Listes de cadeaux",
+        "text": "Des idées de cadeaux, si vous le souhaitez."
+      },
+      {
+        "title": "Détails personnalisés",
+        "text": "Lieu, itinéraire, dress code et plus encore."
+      },
+      {
+        "title": "Tableaux de bord privés",
+        "text": "Un espace d'administration réservé à vous."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Tarifs",
+    "title": "Des packages adaptés à votre événement.",
+    "intro": "Des prix indicatifs pour vous aider à choisir. Le tarif final dépend de votre événement et de vos besoins : contactez-nous pour un devis personnalisé.",
+    "currencyLabel": "Devise",
+    "currency": {
+      "USD": "RDC — $",
+      "ZAR": "Afrique du Sud — R"
+    },
+    "from": "À partir de",
+    "cta": "Demander ce package",
+    "includes": "Inclus",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "L'essentiel pour inviter avec élégance.",
+        "features": [
+          "Invitation digitale",
+          "Informations de l'événement"
+        ]
+      },
+      "standard": {
+        "name": "Standard",
+        "tagline": "Pour gérer vos invités.",
+        "base": "Tout Starter, plus :",
+        "features": [
+          "RSVP",
+          "Tableau de bord d'administration"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "tagline": "Une expérience plus riche.",
+        "base": "Tout Standard, plus :",
+        "features": [
+          "Galerie photos",
+          "QR Code",
+          "Fonctionnalités supplémentaires"
+        ]
+      },
+      "ultimate": {
+        "name": "Ultimate",
+        "tagline": "L'expérience complète.",
+        "base": "Tout Premium, plus :",
+        "features": [
+          "Gestion avancée des invités",
+          "Galerie collaborative"
+        ]
+      }
+    },
+    "note": "Prix indicatifs, susceptibles d'évoluer selon vos besoins. Pas de paiement en ligne : tout se passe par WhatsApp.",
+    "waMessage": "Bonjour LYGM Events ! Je suis intéressé(e) par le package {plan}. J'aimerais en savoir plus."
+  },
+  "cta": {
+    "title": "Rendons votre grand jour inoubliable.",
+    "text": "Que vous prépariez un mariage, accueilliez un petit être ou fêtiez une année de plus, créons ensemble une expérience digitale dont vos invités se souviendront.",
+    "button": "Démarrer votre projet"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Parlez-nous de votre événement.",
+    "intro": "Remplissez ce court formulaire : il prépare votre message et l'ouvre directement dans WhatsApp, notre canal principal.",
+    "name": "Votre nom",
+    "namePlaceholder": "Prénom et nom",
+    "eventType": "Type d'événement",
+    "eventTypes": {
+      "wedding": "Mariage",
+      "babyshower": "Baby Shower",
+      "birthday": "Anniversaire",
+      "other": "Autre événement"
+    },
+    "date": "Date de l'événement",
+    "optional": "(facultatif)",
+    "message": "Votre message",
+    "messagePlaceholder": "Parlez-nous de votre projet : lieu, ambiance, nombre d'invités, démo qui vous plaît…",
+    "preference": "Comment souhaitez-vous être recontacté ?",
+    "preferences": {
+      "whatsapp": "Par WhatsApp",
+      "call": "Par appel téléphonique"
+    },
+    "submit": "Envoyer via WhatsApp",
+    "required": "Ce champ est requis.",
+    "hint": "Aucun compte à créer. Aucun paiement en ligne.",
+    "direct": "Ou écrivez-nous directement",
+    "wa": {
+      "greeting": "Bonjour LYGM Events !",
+      "intro": "Je souhaite créer une invitation digitale personnalisée.",
+      "name": "Nom",
+      "type": "Type d'événement",
+      "date": "Date",
+      "message": "Message",
+      "pref": "Contact préféré"
+    }
+  },
+  "footer": {
+    "nav": "Navigation",
+    "contact": "Contact",
+    "follow": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "whatsapp": "WhatsApp"
+  }
+}
