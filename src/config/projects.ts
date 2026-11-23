@@ -18,6 +18,22 @@ export interface Project {
 // Pour ajouter un projet : ajoutez simplement un objet à ce tableau.
 export const projects: Project[] = [
   {
+    id: "wedding-04",
+    category: "wedding",
+    title: { fr: "Mariage traditionnel — Démo", en: "Traditional Wedding — Demo" },
+    description: {
+      fr: "Une invitation de mariage traditionnel avec notre histoire, programme, pagnes et livre d'or.",
+      en: "A traditional wedding invitation with our story, program, dress code fabrics and guestbook.",
+    },
+    features: {
+      fr: ["RSVP", "Notre histoire", "Programme", "Livre d'or"],
+      en: ["RSVP", "Our Story", "Program", "Guestbook"],
+    },
+    demoUrl: "https://sarah-richesse.vercel.app/",
+    screenshot: "/screenshots/wedding-04.jpg",
+    screenshotMobile: "/screenshots/wedding-04-mobile.jpg",
+  },
+  {
     id: "wedding-01",
     category: "wedding",
     title: { fr: "Mariage — Démo 01", en: "Wedding — Demo 01" },
