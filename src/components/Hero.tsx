@@ -39,9 +39,9 @@ export function Hero({ lang, t }: { lang: Locale; t: Dictionary["hero"] }) {
         </div>
 
         <div className="fade-up relative mx-auto w-full max-w-xl pb-10 pr-8 sm:pr-14" style={d(0.15)}>
-          <DesktopFrame src="/screenshots/wedding-01.jpg" alt="LYGM Events — wedding website demo" priority />
+          <DesktopFrame src="/screenshots/wedding-04.jpg" alt="LYGM Events — wedding website demo" priority />
           <div className="float-y absolute -bottom-2 right-0 w-[28%] min-w-[96px]">
-            <PhoneFrame src="/screenshots/wedding-02-mobile.jpg" alt="LYGM Events — mobile invitation demo" priority />
+            <PhoneFrame src="/screenshots/wedding-01-mobile.jpg" alt="LYGM Events — mobile invitation demo" priority />
           </div>
         </div>
       </div>
