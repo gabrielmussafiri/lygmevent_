@@ -10,7 +10,7 @@
   "nav": {
     "experiences": "Expériences",
     "portfolio": "Démos",
-    "pricing": "Tarifs",
+    "pricing": "Packages",
     "how": "Comment ça marche",
     "contact": "Contact",
     "cta": "Commencer",
@@ -200,16 +200,10 @@
     ]
   },
   "pricing": {
-    "eyebrow": "Tarifs",
+    "eyebrow": "Packages",
     "title": "Des packages adaptés à votre événement.",
-    "intro": "Des prix indicatifs pour vous aider à choisir. Le tarif final dépend de votre événement et de vos besoins : contactez-nous pour un devis personnalisé.",
-    "currencyLabel": "Devise",
-    "currency": {
-      "USD": "RDC — $",
-      "ZAR": "Afrique du Sud — R"
-    },
-    "from": "À partir de",
-    "cta": "Demander ce package",
+    "intro": "Chaque projet est unique : le prix dépend de votre événement et de vos besoins. Choisissez le package qui vous ressemble, puis discutons-en sur WhatsApp pour un devis personnalisé.",
+    "cta": "Demander le prix",
     "includes": "Inclus",
     "plans": {
       "starter": {
@@ -249,8 +243,8 @@
         ]
       }
     },
-    "note": "Prix indicatifs, susceptibles d'évoluer selon vos besoins. Pas de paiement en ligne : tout se passe par WhatsApp.",
-    "waMessage": "Bonjour LYGM Events ! Je suis intéressé(e) par le package {plan}. J'aimerais en savoir plus."
+    "note": "Pas de tarif fixe : on discute de votre projet et vous recevez un devis sur mesure. Pas de paiement en ligne, tout se passe par WhatsApp.",
+    "waMessage": "Bonjour LYGM Events ! Je suis intéressé(e) par le package {plan}. Pouvez-vous me donner le prix ?"
   },
   "cta": {
     "title": "Rendons votre grand jour inoubliable.",

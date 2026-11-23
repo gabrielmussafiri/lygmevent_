@@ -10,7 +10,7 @@
   "nav": {
     "experiences": "Experiences",
     "portfolio": "Demos",
-    "pricing": "Pricing",
+    "pricing": "Packages",
     "how": "How it works",
     "contact": "Contact",
     "cta": "Get started",
@@ -200,16 +200,10 @@
     ]
   },
   "pricing": {
-    "eyebrow": "Pricing",
+    "eyebrow": "Packages",
     "title": "Packages tailored to your event.",
-    "intro": "Indicative prices to help you choose. The final price depends on your event and needs: contact us for a personalized quote.",
-    "currencyLabel": "Currency",
-    "currency": {
-      "USD": "DRC — $",
-      "ZAR": "South Africa — R"
-    },
-    "from": "From",
-    "cta": "Request this package",
+    "intro": "Every project is unique: the price depends on your event and needs. Pick the package that suits you, then let's talk on WhatsApp for a personalized quote.",
+    "cta": "Ask for the price",
     "includes": "Included",
     "plans": {
       "starter": {
@@ -249,8 +243,8 @@
         ]
       }
     },
-    "note": "Indicative prices, subject to change based on your needs. No online payment: everything happens through WhatsApp.",
-    "waMessage": "Hello LYGM Events! I'm interested in the {plan} package. I would love to know more."
+    "note": "No fixed price: we discuss your project and you get a tailored quote. No online payment, everything happens through WhatsApp.",
+    "waMessage": "Hello LYGM Events! I'm interested in the {plan} package. Could you tell me the price?"
   },
   "cta": {
     "title": "Let's Make Your Special Day Unforgettable.",

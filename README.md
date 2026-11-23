@@ -14,7 +14,7 @@ npm run build && npm start
 |---|---|
 | `src/config/site.ts` | Numéro WhatsApp, messages, réseaux sociaux (vide = masqué), URL du site |
 | `src/config/projects.ts` | Projets du portfolio : titres, URL des démos, captures. `demoUrl: null` = « Bientôt disponible » |
-| `src/config/pricing.ts` | Prix des packages par devise ($ / R) |
+| `src/config/pricing.ts` | Packages (sans prix : devis par WhatsApp) |
 | `src/i18n/fr.json`, `en.json` | Tous les textes du site |
 
 **Ajouter un projet :** ajoutez un objet dans `projects.ts` et déposez la capture dans `public/screenshots/`.

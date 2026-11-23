@@ -22,13 +22,13 @@ npm run lint
 - `src/i18n/fr.json` + `en.json` : **tous** les textes. Toute nouvelle chaîne doit exister dans les deux fichiers. Pas de texte en dur dans les composants.
 - `src/config/site.ts` : numéro WhatsApp (`27601214105`), messages, réseaux sociaux (chaîne vide = masqué), URL du site.
 - `src/config/projects.ts` : les 5 démos (titres, URL, captures). `demoUrl: null` affiche « Bientôt disponible ». Ajouter un projet = ajouter un objet + une capture dans `public/screenshots/`.
-- `src/config/pricing.ts` : prix par devise (USD pour la RDC, ZAR pour l'Afrique du Sud).
+- `src/config/pricing.ts` : les 4 packages (Starter, Standard, Premium, Ultimate), **sans prix**.
 - `src/components/` : un composant par section (Hero, Experiences, Portfolio, ProjectCard, WhyUs, HowItWorks, Services, Pricing, CtaSection, ContactForm, Footer…).
 
 ## Règles métier (à respecter)
 - Ne pas inventer de démos, clients, témoignages, avis, statistiques ou badges (« populaire »…), ni d'URL ou de prix.
 - Pas de photos de stock : uniquement les vraies captures des 5 démos.
-- Prix : ceux fournis par le propriétaire (Starter $75/R1 250 · Standard $150/R2 500 · Premium $200–250/R3 500–4 500 · Ultimate $300+/R5 000+). Toujours présentés comme indicatifs. Ne pas dire que toutes les fonctionnalités sont dans chaque package.
+- **Aucun prix affiché sur le site** (décision du propriétaire) : chaque projet est chiffré par discussion sur WhatsApp, bouton « Demander le prix ». Ne pas réintroduire de prix. Ne pas dire que toutes les fonctionnalités sont dans chaque package.
 - Contact principal = WhatsApp. Pas de comptes clients, pas de paiement en ligne, pas de base de données, pas d'éditeur de templates.
 - Les 5 démos : princy-wedding, israel-mariage, achille-deborah, babyshower-mu-puce, lisa24 (tous `.vercel.app`).
 
